@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_hint">Escribe Un Número</string>
+    <string name="lb_multiplicar">Multiplicar</string>
+    <string name="lb_dividir">Dividir</string>
+</resources>
